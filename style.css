@@ -92,7 +92,7 @@ ul li a:hover {
 
 @media (max-width: 350px) {
     .headline {
-        padding-top: 150px !important;
+        padding-top: 100px !important;
         display: flex;
         flex-direction: column;
     }
